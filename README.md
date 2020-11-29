@@ -1,2 +1,2 @@
-# MODUL01
+# USB232R02A
 Template repository
