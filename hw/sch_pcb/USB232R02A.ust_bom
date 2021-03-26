@@ -1,0 +1,285 @@
+[
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_C:SMD-0805", 
+        "Ref": "C1", 
+        "Tstamp": "76664881-b13b-485d-8146-b2cd3342e429", 
+        "UST_ID": "5c70984712875079b91f8b49", 
+        "Value": "10nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_C:SMD-0805", 
+        "Ref": "C2", 
+        "Tstamp": "cfc8b04f-76e5-46d5-a275-51c940d295cb", 
+        "UST_ID": "5c70984812875079b91f8bbd", 
+        "Value": "10uF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_C:SMD-0805", 
+        "Ref": "C3", 
+        "Tstamp": "dd1905ac-acf8-4a7f-9c95-45acf0dc6542", 
+        "UST_ID": "5c70984712875079b91f8b4c", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_C:SMD-0805", 
+        "Ref": "C4", 
+        "Tstamp": "6017fbc5-5885-495f-b128-af36db35d2b1", 
+        "UST_ID": "5c70984712875079b91f8b4c", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_C:SMD-0805", 
+        "Ref": "C5", 
+        "Tstamp": "46fe3a80-5edf-4efd-bcbe-ca6f7582107e", 
+        "UST_ID": "5c70984712875079b91f8b4c", 
+        "Value": "100nF"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Diode_SMD:D_SMA", 
+        "Ref": "D1", 
+        "Tstamp": "1f039b55-3c34-40d6-9528-c28c44e4c0a2", 
+        "UST_ID": "5c70984512875079b91f88ac", 
+        "Value": "M4"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_D:LED_1206", 
+        "Ref": "D2", 
+        "Tstamp": "73f8190d-7547-4ed2-8230-76c4dc98b669", 
+        "UST_ID": "5c70984412875079b91f8896", 
+        "Value": "RED"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_D:LED_1206", 
+        "Ref": "D3", 
+        "Tstamp": "0f570900-562d-4c72-a751-ebfa8c6960f6", 
+        "UST_ID": "5c70984412875079b91f8895", 
+        "Value": "GREEN"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_F:1812", 
+        "Ref": "F1", 
+        "Tstamp": "62733b7b-fdd3-4350-9b51-f7de3e5c9ae7", 
+        "UST_ID": "5c70984512875079b91f88d2", 
+        "Value": "750mA"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_L:SMD-0805", 
+        "Ref": "FB1", 
+        "Tstamp": "7a4dbebd-d0a7-4863-9e1c-f463bc49abf0", 
+        "UST_ID": "5c70984412875079b91f87fd", 
+        "Value": "BLM21PG300SN1D"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "H1", 
+        "Tstamp": "9ccdf6af-8340-4776-9e1b-cf90430c2f74", 
+        "Value": "M3"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "H2", 
+        "Tstamp": "d5b4ee16-e759-497e-8377-97158519928e", 
+        "Value": "M3"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "H3", 
+        "Tstamp": "760863e4-da73-4058-a60b-a7063f12c80c", 
+        "Value": "M3"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_Mechanical:MountingHole_3mm", 
+        "Ref": "H4", 
+        "Tstamp": "6c86aaaa-9174-4bc6-95df-e076880a11e1", 
+        "Value": "M3"
+    }, 
+    {
+        "Datasheet": " ~", 
+        "Footprint": "Connector_USB:USB_B_OST_USB-B1HSxx_Horizontal", 
+        "Ref": "J1", 
+        "Tstamp": "53367208-cd3a-4954-8647-0de7f7c0c08e", 
+        "UST_ID": "5c70984412875079b91f87a8", 
+        "Value": "USB_B"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x03", 
+        "Ref": "J2", 
+        "Tstamp": "18489fef-aad5-4128-b2ee-aca5b2c7e21e", 
+        "Value": "HEADER_2x03_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x03", 
+        "Ref": "J3", 
+        "Tstamp": "9304e664-8a86-4627-936a-7b92275c5c3b", 
+        "Value": "HEADER_2x03_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J4", 
+        "Tstamp": "15a4cd69-a0bd-4e2b-88a7-e153f9f19836", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J5", 
+        "Tstamp": "efbe8fb8-9545-49ba-bb37-61f2d8d813f2", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J6", 
+        "Tstamp": "213c7d48-cc00-4695-a2fe-64145cce24ee", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J7", 
+        "Tstamp": "9abaf92a-7dfd-4f42-bc45-de1b0a9146df", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J8", 
+        "Tstamp": "bbcf9f4e-dab9-441e-badc-e72aac270821", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J9", 
+        "Tstamp": "e3fb9e1f-561d-4bab-af2d-ceee04de1b3d", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J10", 
+        "Tstamp": "dba42c53-c210-47c2-9767-0ff3a8df3960", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J11", 
+        "Tstamp": "54aae793-fdcd-4e56-a9eb-ce6c8b2739ae", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J12", 
+        "Tstamp": "3d52675a-b81d-49e5-96cc-9462f977192f", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_1x01", 
+        "Ref": "J13", 
+        "Tstamp": "c8fd8da6-e5e8-4c54-818c-06444e23b76d", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_1x01", 
+        "Ref": "J14", 
+        "Tstamp": "61652d37-c987-4076-b01d-6a478efaeb57", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_1x01", 
+        "Ref": "J15", 
+        "Tstamp": "e47bd181-3955-4b09-a5ff-6117b7ef0613", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_1x01", 
+        "Ref": "J16", 
+        "Tstamp": "6ea95316-207f-413b-a780-08495d1813b1", 
+        "Value": "-"
+    }, 
+    {
+        "Datasheet": "", 
+        "Footprint": "Mlab_Pin_Headers:Straight_2x01", 
+        "Ref": "J17", 
+        "Tstamp": "121381c1-05c1-47dd-926b-13c4324ab477", 
+        "Value": "HEADER_2x01_PARALLEL"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Jumper:SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm", 
+        "Ref": "JP1", 
+        "Tstamp": "34194031-8ee2-4168-a925-3eae0f2dd195", 
+        "Value": "SolderJumper_2_Bridged"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R1", 
+        "Tstamp": "e6027bb9-3585-4cd7-8f72-462f5ea6e99b", 
+        "UST_ID": "5c70984612875079b91f8995", 
+        "Value": "4k7"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R2", 
+        "Tstamp": "b000982e-1021-4d2c-b39d-c20a330f2cb5", 
+        "UST_ID": "5c70984612875079b91f899f", 
+        "Value": "10k"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R3", 
+        "Tstamp": "1d29942c-6664-43d9-a5ea-371615c39445", 
+        "UST_ID": "5c70984512875079b91f8983", 
+        "Value": "270R"
+    }, 
+    {
+        "Datasheet": "~", 
+        "Footprint": "Mlab_R:SMD-0805", 
+        "Ref": "R4", 
+        "Tstamp": "fa8f516d-a7ef-49a5-be00-bd70fa99119b", 
+        "UST_ID": "5c70984512875079b91f8983", 
+        "Value": "270R"
+    }, 
+    {
+        "Datasheet": "https://www.st.com/resource/en/datasheet/usblc6-2.pdf", 
+        "Footprint": "Package_TO_SOT_SMD:SOT-23-6", 
+        "Ref": "U1", 
+        "Tstamp": "108fbbc4-b94b-4914-aedb-62f6fa857d65", 
+        "UST_ID": "5e82e0691287502a334a778c", 
+        "Value": "USBLC6-2SC6"
+    }, 
+    {
+        "Datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT231X.pdf", 
+        "Footprint": "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm", 
+        "Ref": "U2", 
+        "Tstamp": "9bf93799-4977-4b2b-8088-04df44b73cd8", 
+        "UST_ID": "605d7fe0128750769e769adb", 
+        "Value": "FT231XQ"
+    }
+]

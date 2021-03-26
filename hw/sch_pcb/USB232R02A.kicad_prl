@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 48,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_nets": [],
@@ -61,14 +61,16 @@
       33,
       34,
       35,
-      36
+      36,
+      39,
+      40
     ],
-    "visible_layers": "0001020_ffffffff",
+    "visible_layers": "0011120_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
     "filename": "USB232R02A.kicad_prl",
-    "version": 3
+    "version": 2
   },
   "project": {
     "files": []
