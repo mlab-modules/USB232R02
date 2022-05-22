@@ -70,8 +70,8 @@ Defined tracks:
 
 Used tracks:
 
-- 0.25 mm (10 mils) (187) defined: no
-- 0.4 mm (16 mils) (45) defined: no
+- 0.25 mm (10 mils) (181) defined: no
+- 0.4 mm (16 mils) (44) defined: no
 - 0.6 mm (24 mils) (17) defined: no
 
 Defined vias:
@@ -79,7 +79,7 @@ Defined vias:
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 39, Aspect: 2.0 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 42, Aspect: 2.0 A) defined: no
 
 Holes (excluding vias):
 

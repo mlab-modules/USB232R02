@@ -1,4 +1,4 @@
-Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+Ref,Val,Package,PosX,PosY,Rot,Side
 "C1","10nF","SMD-0805",132.0775,-96.0690,180.0000,bottom
 "C2","10uF","SMD-0805",130.4900,-99.5615,90.0000,bottom
 "C3","100nF","SMD-0805",149.6670,-95.1165,90.0000,bottom
