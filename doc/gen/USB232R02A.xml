@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USB232R02A.kicad_sch</source>
-    <date>Sun May 22 10:19:26 2022</date>
+    <date>Tue Jun 14 10:26:04 2022</date>
     <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -11,7 +11,7 @@
         <rev/>
         <date>2021-03-25</date>
         <source>USB232R02A.kicad_sch</source>
-        <comment number="1" value=""/>
+        <comment number="1" value="USB to UART converter"/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
         <comment number="4" value=""/>
