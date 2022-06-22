@@ -19,3 +19,8 @@ The module provides the ability to power your devices via 5V from USB and 3.3V f
 ![USB232R02A Top](doc/img/USB232R02A_top.png)
 
 ![USB232R02A Bottom](doc/img/USB232R02A_bot.png) 
+
+
+How to get this device? 
+This device is sold by [Universal Scientific Technologies s.r.o.](www.ust.cz). If you are interested in our equipment, do not be afraid to [contact us](mailto:sale@ust.cz
+).
