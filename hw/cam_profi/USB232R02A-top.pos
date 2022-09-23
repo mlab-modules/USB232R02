@@ -1,0 +1,23 @@
+### Module positions - created on Pá 23. září 2022, 23:15:54 ###
+### Printed by Pcbnew version 6.0.7-f9a2dced07~116~ubuntu20.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                               PosX       PosY       Rot  Side
+J1        USB_B                 USB_B_OST_USB-B1HSxx_Horizontal    10.4140     8.7630  180.0000  top
+J2        HEADER_2x03_PARALLEL  Straight_2x03                      13.9700     0.0000   90.0000  top
+J3        HEADER_2x03_PARALLEL  Straight_2x03                      22.8600     0.0000   90.0000  top
+J4        -                     Straight_2x01                      25.4000    20.3200   90.0000  top
+J5        HEADER_2x01_PARALLEL  Straight_2x01                      30.4800    15.2400    0.0000  top
+J6        HEADER_2x01_PARALLEL  Straight_2x01                      30.4800    12.7000    0.0000  top
+J7        HEADER_2x01_PARALLEL  Straight_2x01                      30.4800     7.6200    0.0000  top
+J8        HEADER_2x01_PARALLEL  Straight_2x01                      30.4800    10.1600    0.0000  top
+J9        -                     Straight_2x01                      22.8600    20.3200   90.0000  top
+J10       -                     Straight_2x01                      17.7800    20.3200   90.0000  top
+J11       -                     Straight_2x01                      20.3200    20.3200   90.0000  top
+J12       -                     Straight_2x01                      15.2400    20.3200   90.0000  top
+J13       -                     Straight_1x01                      12.7000    21.5900  -90.0000  top
+J14       -                     Straight_1x01                      10.1600    21.5900    0.0000  top
+J15       -                     Straight_1x01                      10.1600    19.0500   90.0000  top
+J16       -                     Straight_1x01                      12.7000    19.0500  180.0000  top
+J17       HEADER_2x01_PARALLEL  Straight_2x01                      30.4800     5.0800    0.0000  top
+## End
