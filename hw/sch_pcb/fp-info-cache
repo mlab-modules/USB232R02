@@ -1,148 +1,1415 @@
-33048738072058
-Jumper
-SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+320707292927328
+Connector_SATA_SAS
+SAS-mini_TEConnectivity_1888174_Vertical
+36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
+SAS mini connector
+0
+44
+44
+Connector_SATA_SAS
+SATA_Amphenol_10029364-001LF_Horizontal
+https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10029364.pdf
+SATA
+0
+24
+23
+Mlab_CON
+1_kontakty
+Jeden samotný kontakt na vodič
+
+0
+1
+1
+Mlab_CON
+2_kontakty
+Pro vypínač do panelu na vodičích
+
 0
 2
 2
-Jumper
-SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
-solder jumper open
+Mlab_CON
+292-04A-6
+
+
 0
+3
 2
-2
-Jumper
-SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+Mlab_CON
+AVX_009175003001006
+Punch_down_block
+
 0
 3
 3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+Mlab_CON
+DC2,1MM
+
+DC2,1MM nap. konektor
 0
 3
 3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-solder jumper open
+Mlab_CON
+FPS009-4200-0
+SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
+sd card
 0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-solder jumper open
+13
+10
+Mlab_CON
+IDC381-8-110
+
+
 0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
+8
+8
+Mlab_CON
+MCC-SD
+SD card connector, top mount, SMT (http://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2041021%7FB%7Fpdf%7FEnglish%7FENG_CD_2041021_B_C_2041021_B.pdf%7F2041021-4)
+sd card
 0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
+15
+12
+Mlab_CON
+MCSP-Q-08-A-SG
+
+
 0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
+13
+10
+Mlab_CON
+MCX
+
+
 0
 5
+2
+Mlab_CON
+MCX_Molex_73415-1061
+https://www.molex.com/pdm_docs/sd/734151061_sd.pdf
+
+0
 3
-Jumper
-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
+2
+Mlab_CON
+RJ12GLP-AMP(RJ12)
+
+
+0
+8
+8
+Mlab_CON
+RJHSE-5384(RJ45)
+
+
+0
+14
+14
+Mlab_CON
+SAMTEC-BTH-030-01-X-D-A
+Connector, Samtec BTH, 60 pos.
+
+0
+60
+60
+Mlab_CON
+SAS-mini_TEConnectivity_1888174_Vertical
+36pin mini SAS connector, http://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1888174&DocType=Customer+Drawing&DocLang=English
+SAS mini connector
+0
+44
+44
+Mlab_CON
+SATA-7_THT_VERT_2
+
+
+0
+9
+9
+Mlab_CON
+SIMCN-8P
+
+SIM
+0
+8
+8
+Mlab_CON
+SMA6251A13G50
+
+
 0
 5
+2
+Mlab_CON
+USB3_0_A
+USB A connector
+USB USB_A
+0
+11
+10
+Mlab_CON
+USB3_0_B
+
+USB 3.0 B
+0
+11
+10
+Mlab_CON
+USBC GCT_USB4105-GF-A
+
+
+0
+16
+16
+Mlab_CON
+WAGO256
+WAGO-Series 236, 2Stift, 1pol, RM 5mm,
+WAGO-Series 236, 2Stift, 1pol, RM 5mm, Anreibare Leiterplattenklemme
+0
+2
+1
+Mlab_CON
+WAGO256_2
+WAGO-Series 236, 2Stift, 1pol, RM 5mm,
+WAGO-Series 236, 2Stift, 1pol, RM 5mm, Anreibare Leiterplattenklemme
+0
+2
+1
+Mlab_CON
+uUSB-B
+
+uUSB-B MOLEX 1050170001
+0
+11
+5
+Mlab_IO
+D2PAK-TO-263-2Lead
+D2PAK / TO-263 3-lead smd package
+D2PAK D2PAK-3 TO-263AB TO-263
+0
 3
+3
+Mlab_IO
+DFN-8-1EP_2.4x2.4mm_Pitch0.5mm
+DFN8 2x2, 0.5mm pin
+DFN 0.5
+0
+9
+9
+Mlab_IO
+DFN-12-1EP_3x4mm_Pitch0.5mm
+DE/UE Package; 12-Lead Plastic DFN (4mm x 3mm) (see Linear Technology DFN_12_05-08-1695.pdf)
+DFN 0.5
+0
+20
+13
+Mlab_IO
+DL1020
+
+
+0
+24
+8
+Mlab_IO
+DPAK-TO-252-2Lead
+TO-252-2Lead DPAK
+
+0
+3
+3
+Mlab_IO
+FN
+
+ TCS37717
+0
+6
+6
+Mlab_IO
+HSOP-8
+
+
+0
+15
+9
+Mlab_IO
+HTQFP-64_10x10mm_Pitch0.5mm
+64-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1 mm Body, 2.00 mm Footprint [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
+QFP 0.5
+0
+65
+65
+Mlab_IO
+HTSSOP28
+
+
+0
+44
+29
+Mlab_IO
+LEON-G1
+
+GSM, LEON-G1
+0
+50
+50
+Mlab_IO
+LQFP64
+
+
+0
+64
+64
+Mlab_IO
+MLPQ-16
+
+
+0
+17
+17
+Mlab_IO
+MSOP-8-1EP_3x3mm_Pitch0.65mm
+MS8E Package; 8-Lead Plastic MSOP, Exposed Die Pad (see Linear Technology 05081662_K_MS8E.pdf)
+SSOP 0.65
+0
+12
+9
+Mlab_IO
+MSOP-8_3x3mm_Pitch0.65mm
+8-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+Mlab_IO
+MicroFC−60035−SMT
+
+
+0
+4
+4
+Mlab_IO
+POWERSO36
+36 LEADS POWER SMALL OUTLINE PACKAGE
+36 LEADS POWER SMALL OUTLINE PACKAGE
+0
+39
+39
+Mlab_IO
+PowerSSO-16
+
+
+0
+25
+17
+Mlab_IO
+QFN-20-1EP_5x5mm_Pitch0.65mm
+20-Lead Plastic Quad Flat, No Lead Package (MQ) - 5x5x0.9 mm Body [QFN]; (see Microchip Packaging Specification 00000049BS.pdf)
+QFN 0.65
+0
+24
+21
+Mlab_IO
+SC-70-5
+SC70-8
+SC70-8
+0
+5
+5
+Mlab_IO
+SC-70-6
+SC70-8
+SC70-8
+0
+6
+6
+Mlab_IO
+SDP3x
+
+
+0
+18
+18
+Mlab_IO
+SO-8
+SO-8 Surface Mount Small Outline 150mil 8pin Package
+Power Integrations D Package
+0
+8
+8
+Mlab_IO
+SO-14
+SO-8 Surface Mount Small Outline 150mil 8pin Package
+Power Integrations D Package
+0
+14
+14
+Mlab_IO
+SOIC-8_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+8
+8
+Mlab_IO
+SOIC-14
+Module CMS SOJ 14 pins Large
+CMS SOJ
+0
+14
+14
+Mlab_IO
+SOIC-24
+
+
+0
+24
+24
+Mlab_IO
+SOIC-28
+Module CMS SOJ 28 pins large
+CMS SOJ
+0
+28
+28
+Mlab_IO
+SON45P300X300X80-13N-D
+DPD0012A
+Integrated Circuit
+0
+13
+13
+Mlab_IO
+SON50P200X200X95-9N-D
+QFN-9
+Integrated Circuit
+0
+12
+9
+Mlab_IO
+SOP-8_EP_3.9x4.9mm_Pitch1.27mm
+8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
+SOIC 1.27
+0
+9
+9
+Mlab_IO
+SOT-23
+
+SOT23
+0
+3
+3
+Mlab_IO
+SOT-23-6
+
+
+0
+6
+6
+Mlab_IO
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+Mlab_IO
+SOT-553
+SOT553
+
+0
+5
+5
+Mlab_IO
+SOT176-1
+SO-8 Surface Mount Small Outline 150mil 8pin Package
+
+0
+8
+8
+Mlab_IO
+SSOP-20_5.3x7.2mm_Pitch0.65mm
+20-Lead Plastic Shrink Small Outline (SS)-5.30 mm Body [SSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+20
+20
+Mlab_IO
+TSSOP-8_4.4x3mm_Pitch0.65mm
+8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+Mlab_IO
+TSSOP-10_3x3mm_Pitch0.5mm
+TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)
+SSOP 0.5
+0
+10
+10
+Mlab_IO
+TSSOP-14_4.4x5mm_Pitch0.65mm
+14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+14
+14
+Mlab_IO
+TSSOP-16_4.4x5mm_Pitch0.65mm
+16-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+16
+16
+Mlab_IO
+TSSOP-24
+TSSOP-28
+
+0
+24
+24
+Mlab_IO
+TSSOP28
+
+
+0
+28
+28
+Mlab_IO
+UFF_QFN34
+
+
+0
+37
+35
+Mlab_IO
+VEML6030
+
+
+0
+6
+6
+Mlab_IO
+VQFN-20
+SO-8 Surface Mount Small Outline 150mil 8pin Package
+Power Integrations D Package
+0
+32
+21
+Mlab_IO
+VQFN-64_9.15x9.15mm_EP_7.5x7.5mm
+RGC0064H
+Integrated Circuit
+0
+110
+65
+Mlab_IO
+VSON-8
+SO-8 Surface Mount Small Outline 150mil 8pin Package
+Power Integrations D Package
+0
+9
+9
+Mlab_IO
+WSON-12
+WSON 12
+DRV8835
+0
+20
+13
+Mlab_IO
+XDCR_VCNT2020
+
+
+0
+4
+4
+Mlab_IO
+tsot-5
+TSOT-5
+
+0
+5
+5
+Mlab_Pin_Headers
+Angled_1x01
+pin header angled 1x01
+pin header angled 1x01
+0
+1
+1
+Mlab_Pin_Headers
+Angled_1x02
+pin header angled 1x02
+pin header angled 1x02
+0
+2
+2
+Mlab_Pin_Headers
+Angled_1x03
+pin header angled 1x03
+pin header angled 1x03
+0
+3
+3
+Mlab_Pin_Headers
+Angled_1x04
+pin header angled 1x04
+pin header angled 1x04
+0
+4
+4
+Mlab_Pin_Headers
+Angled_1x05
+pin header angled 1x05
+pin header angled 1x05
+0
+5
+5
+Mlab_Pin_Headers
+Angled_1x06
+pin header angled 1x06
+pin header angled 1x06
+0
+6
+6
+Mlab_Pin_Headers
+Angled_1x07
+pin header angled 1x07
+pin header angled 1x07
+0
+7
+7
+Mlab_Pin_Headers
+Angled_1x08
+pin header angled 1x08
+pin header angled 1x08
+0
+8
+8
+Mlab_Pin_Headers
+Angled_1x09
+pin header angled 1x09
+pin header angled 1x09
+0
+9
+9
+Mlab_Pin_Headers
+Angled_1x10
+pin header angled 1x10
+pin header angled 1x10
+0
+10
+10
+Mlab_Pin_Headers
+Angled_1x11
+pin header angled 1x11
+pin header angled 1x11
+0
+11
+11
+Mlab_Pin_Headers
+Angled_1x12
+pin header angled 1x12
+pin header angled 1x12
+0
+12
+12
+Mlab_Pin_Headers
+Angled_1x13
+pin header angled 1x13
+pin header angled 1x13
+0
+13
+13
+Mlab_Pin_Headers
+Angled_1x14
+pin header angled 1x14
+pin header angled 1x14
+0
+14
+14
+Mlab_Pin_Headers
+Angled_1x15
+pin header angled 1x15
+pin header angled 1x15
+0
+15
+15
+Mlab_Pin_Headers
+Angled_1x16
+pin header angled 1x16
+pin header angled 1x16
+0
+16
+16
+Mlab_Pin_Headers
+Angled_1x17
+pin header angled 1x17
+pin header angled 1x17
+0
+17
+17
+Mlab_Pin_Headers
+Angled_1x18
+pin header angled 1x18
+pin header angled 1x18
+0
+18
+18
+Mlab_Pin_Headers
+Angled_1x19
+pin header angled 1x19
+pin header angled 1x19
+0
+19
+19
+Mlab_Pin_Headers
+Angled_1x20
+pin header angled 1x20
+pin header angled 1x20
+0
+20
+20
+Mlab_Pin_Headers
+Angled_1x21
+pin header angled 1x21
+pin header angled 1x21
+0
+21
+21
+Mlab_Pin_Headers
+Angled_1x22
+pin header angled 1x22
+pin header angled 1x22
+0
+22
+22
+Mlab_Pin_Headers
+Angled_1x23
+pin header angled 1x23
+pin header angled 1x23
+0
+23
+23
+Mlab_Pin_Headers
+Angled_1x24
+pin header angled 1x24
+pin header angled 1x24
+0
+24
+24
+Mlab_Pin_Headers
+Angled_1x25
+pin header angled 1x25
+pin header angled 1x25
+0
+25
+25
+Mlab_Pin_Headers
+Angled_1x26
+pin header angled 1x26
+pin header angled 1x26
+0
+26
+26
+Mlab_Pin_Headers
+Angled_1x27
+pin header angled 1x27
+pin header angled 1x27
+0
+27
+27
+Mlab_Pin_Headers
+Angled_1x28
+pin header angled 1x28
+pin header angled 1x28
+0
+28
+28
+Mlab_Pin_Headers
+Angled_1x29
+pin header angled 1x29
+pin header angled 1x29
+0
+29
+29
+Mlab_Pin_Headers
+Angled_1x30
+pin header angled 1x30
+pin header angled 1x30
+0
+30
+30
+Mlab_Pin_Headers
+Angled_1x31
+pin header angled 1x31
+pin header angled 1x31
+0
+31
+31
+Mlab_Pin_Headers
+Angled_1x32
+pin header angled 1x32
+pin header angled 1x32
+0
+32
+32
+Mlab_Pin_Headers
+Angled_1x33
+pin header angled 1x33
+pin header angled 1x33
+0
+33
+33
+Mlab_Pin_Headers
+Angled_1x34
+pin header angled 1x34
+pin header angled 1x34
+0
+34
+34
+Mlab_Pin_Headers
+Angled_1x35
+pin header angled 1x35
+pin header angled 1x35
+0
+35
+35
+Mlab_Pin_Headers
+Angled_1x36
+pin header angled 1x36
+pin header angled 1x36
+0
+36
+36
+Mlab_Pin_Headers
+Angled_1x37
+pin header angled 1x37
+pin header angled 1x37
+0
+37
+37
+Mlab_Pin_Headers
+Angled_1x38
+pin header angled 1x38
+pin header angled 1x38
+0
+38
+38
+Mlab_Pin_Headers
+Angled_1x39
+pin header angled 1x39
+pin header angled 1x39
+0
+39
+39
+Mlab_Pin_Headers
+Angled_1x40
+pin header angled 1x40
+pin header angled 1x40
+0
+40
+40
+Mlab_Pin_Headers
+SMD_1_2_4x2
+
+
+0
+2
+2
+Mlab_Pin_Headers
+SMD_1_2x1
+
+
+0
+1
+1
+Mlab_Pin_Headers
+SMD_1_2x2
+
+
+0
+2
+2
+Mlab_Pin_Headers
+SMD_1x1
+
+
+0
+1
+1
+Mlab_Pin_Headers
+SMD_2x03
+pin header straight 2x03
+pin header straight 2x03
+0
+6
+6
+Mlab_Pin_Headers
+Straight_1x01
+pin header straight 1x01
+pin header straight 1x01
+0
+1
+1
+Mlab_Pin_Headers
+Straight_1x02
+pin header straight 1x02
+pin header straight 1x02
+0
+2
+2
+Mlab_Pin_Headers
+Straight_1x03
+pin header straight 1x03
+pin header straight 1x03
+0
+3
+3
+Mlab_Pin_Headers
+Straight_1x04
+pin header straight 1x04
+pin header straight 1x04
+0
+4
+4
+Mlab_Pin_Headers
+Straight_1x05
+pin header straight 1x05
+pin header straight 1x05
+0
+5
+5
+Mlab_Pin_Headers
+Straight_1x06
+pin header straight 1x06
+pin header straight 1x06
+0
+6
+6
+Mlab_Pin_Headers
+Straight_1x07
+pin header straight 1x07
+pin header straight 1x07
+0
+7
+7
+Mlab_Pin_Headers
+Straight_1x08
+pin header straight 1x08
+pin header straight 1x08
+0
+8
+8
+Mlab_Pin_Headers
+Straight_1x09
+pin header straight 1x09
+pin header straight 1x09
+0
+9
+9
+Mlab_Pin_Headers
+Straight_1x10
+pin header straight 1x10
+pin header straight 1x10
+0
+10
+10
+Mlab_Pin_Headers
+Straight_1x11
+pin header straight 1x11
+pin header straight 1x11
+0
+11
+11
+Mlab_Pin_Headers
+Straight_1x12
+pin header straight 1x12
+pin header straight 1x12
+0
+12
+12
+Mlab_Pin_Headers
+Straight_1x13
+pin header straight 1x13
+pin header straight 1x13
+0
+13
+13
+Mlab_Pin_Headers
+Straight_1x14
+pin header straight 1x14
+pin header straight 1x14
+0
+14
+14
+Mlab_Pin_Headers
+Straight_1x15
+pin header straight 1x15
+pin header straight 1x15
+0
+15
+15
+Mlab_Pin_Headers
+Straight_1x16
+pin header straight 1x16
+pin header straight 1x16
+0
+16
+16
+Mlab_Pin_Headers
+Straight_1x17
+pin header straight 1x17
+pin header straight 1x17
+0
+17
+17
+Mlab_Pin_Headers
+Straight_1x18
+pin header straight 1x18
+pin header straight 1x18
+0
+18
+18
+Mlab_Pin_Headers
+Straight_1x19
+pin header straight 1x19
+pin header straight 1x19
+0
+19
+19
+Mlab_Pin_Headers
+Straight_1x20
+pin header straight 1x20
+pin header straight 1x20
+0
+20
+20
+Mlab_Pin_Headers
+Straight_1x21
+pin header straight 1x21
+pin header straight 1x21
+0
+21
+21
+Mlab_Pin_Headers
+Straight_1x22
+pin header straight 1x22
+pin header straight 1x22
+0
+22
+22
+Mlab_Pin_Headers
+Straight_1x23
+pin header straight 1x23
+pin header straight 1x23
+0
+23
+23
+Mlab_Pin_Headers
+Straight_1x24
+pin header straight 1x24
+pin header straight 1x24
+0
+24
+24
+Mlab_Pin_Headers
+Straight_1x25
+pin header straight 1x25
+pin header straight 1x25
+0
+25
+25
+Mlab_Pin_Headers
+Straight_1x26
+pin header straight 1x26
+pin header straight 1x26
+0
+26
+26
+Mlab_Pin_Headers
+Straight_1x27
+pin header straight 1x27
+pin header straight 1x27
+0
+27
+27
+Mlab_Pin_Headers
+Straight_1x28
+pin header straight 1x28
+pin header straight 1x28
+0
+28
+28
+Mlab_Pin_Headers
+Straight_1x29
+pin header straight 1x29
+pin header straight 1x29
+0
+29
+29
+Mlab_Pin_Headers
+Straight_1x30
+pin header straight 1x30
+pin header straight 1x30
+0
+30
+30
+Mlab_Pin_Headers
+Straight_1x31
+pin header straight 1x31
+pin header straight 1x31
+0
+31
+31
+Mlab_Pin_Headers
+Straight_1x32
+pin header straight 1x32
+pin header straight 1x32
+0
+32
+32
+Mlab_Pin_Headers
+Straight_1x33
+pin header straight 1x33
+pin header straight 1x33
+0
+33
+33
+Mlab_Pin_Headers
+Straight_1x34
+pin header straight 1x34
+pin header straight 1x34
+0
+34
+34
+Mlab_Pin_Headers
+Straight_1x35
+pin header straight 1x35
+pin header straight 1x35
+0
+35
+35
+Mlab_Pin_Headers
+Straight_1x36
+pin header straight 1x36
+pin header straight 1x36
+0
+36
+36
+Mlab_Pin_Headers
+Straight_1x37
+pin header straight 1x37
+pin header straight 1x37
+0
+37
+37
+Mlab_Pin_Headers
+Straight_1x38
+pin header straight 1x38
+pin header straight 1x38
+0
+38
+38
+Mlab_Pin_Headers
+Straight_1x39
+pin header straight 1x39
+pin header straight 1x39
+0
+39
+39
+Mlab_Pin_Headers
+Straight_1x40
+pin header straight 1x40
+pin header straight 1x40
+0
+40
+40
+Mlab_Pin_Headers
+Straight_2x01
+pin header straight 2x01
+pin header straight 2x01
+0
+2
+2
+Mlab_Pin_Headers
+Straight_2x02
+pin header straight 2x02
+pin header straight 2x02
+0
+4
+4
+Mlab_Pin_Headers
+Straight_2x03
+pin header straight 2x03
+pin header straight 2x03
+0
+6
+6
+Mlab_Pin_Headers
+Straight_2x04
+pin header straight 2x04
+pin header straight 2x04
+0
+8
+8
+Mlab_Pin_Headers
+Straight_2x05
+pin header straight 2x05
+pin header straight 2x05
+0
+10
+10
+Mlab_Pin_Headers
+Straight_2x06
+pin header straight 2x06
+pin header straight 2x06
+0
+12
+12
+Mlab_Pin_Headers
+Straight_2x07
+pin header straight 2x07
+pin header straight 2x07
+0
+14
+14
+Mlab_Pin_Headers
+Straight_2x08
+pin header straight 2x08
+pin header straight 2x08
+0
+16
+16
+Mlab_Pin_Headers
+Straight_2x09
+pin header straight 2x09
+pin header straight 2x09
+0
+18
+18
+Mlab_Pin_Headers
+Straight_2x10
+pin header straight 2x10
+pin header straight 2x10
+0
+20
+20
+Mlab_Pin_Headers
+Straight_2x11
+pin header straight 2x11
+pin header straight 2x11
+0
+22
+22
+Mlab_Pin_Headers
+Straight_2x12
+pin header straight 2x12
+pin header straight 2x12
+0
+24
+24
+Mlab_Pin_Headers
+Straight_2x13
+pin header straight 2x13
+pin header straight 2x13
+0
+26
+26
+Mlab_Pin_Headers
+Straight_2x14
+pin header straight 2x14
+pin header straight 2x14
+0
+28
+28
+Mlab_Pin_Headers
+Straight_2x15
+pin header straight 2x15
+pin header straight 2x15
+0
+30
+30
+Mlab_Pin_Headers
+Straight_2x16
+pin header straight 2x16
+pin header straight 2x16
+0
+32
+32
+Mlab_Pin_Headers
+Straight_2x17
+pin header straight 2x17
+pin header straight 2x17
+0
+34
+34
+Mlab_Pin_Headers
+Straight_2x18
+pin header straight 2x18
+pin header straight 2x18
+0
+36
+36
+Mlab_Pin_Headers
+Straight_2x19
+pin header straight 2x19
+pin header straight 2x19
+0
+38
+38
+Mlab_Pin_Headers
+Straight_2x20
+pin header straight 2x20
+pin header straight 2x20
+0
+40
+40
+Mlab_Pin_Headers
+Straight_2x21
+pin header straight 2x21
+pin header straight 2x21
+0
+42
+42
+Mlab_Pin_Headers
+Straight_2x22
+pin header straight 2x22
+pin header straight 2x22
+0
+44
+44
+Mlab_Pin_Headers
+Straight_2x23
+pin header straight 2x23
+pin header straight 2x23
+0
+46
+46
+Mlab_Pin_Headers
+Straight_2x24
+pin header straight 2x24
+pin header straight 2x24
+0
+48
+48
+Mlab_Pin_Headers
+Straight_2x25
+pin header straight 2x25
+pin header straight 2x25
+0
+50
+50
+Mlab_Pin_Headers
+Straight_2x26
+pin header straight 2x26
+pin header straight 2x26
+0
+52
+52
+Mlab_Pin_Headers
+Straight_2x27
+pin header straight 2x27
+pin header straight 2x27
+0
+54
+54
+Mlab_Pin_Headers
+Straight_2x28
+pin header straight 2x28
+pin header straight 2x28
+0
+56
+56
+Mlab_Pin_Headers
+Straight_2x29
+pin header straight 2x29
+pin header straight 2x29
+0
+58
+58
+Mlab_Pin_Headers
+Straight_2x30
+pin header straight 2x30
+pin header straight 2x30
+0
+60
+60
+Mlab_Pin_Headers
+Straight_2x31
+pin header straight 2x31
+pin header straight 2x31
+0
+62
+62
+Mlab_Pin_Headers
+Straight_2x32
+pin header straight 2x32
+pin header straight 2x32
+0
+64
+64
+Mlab_Pin_Headers
+Straight_2x33
+pin header straight 2x33
+pin header straight 2x33
+0
+66
+66
+Mlab_Pin_Headers
+Straight_2x34
+pin header straight 2x34
+pin header straight 2x34
+0
+68
+68
+Mlab_Pin_Headers
+Straight_2x35
+pin header straight 2x35
+pin header straight 2x35
+0
+70
+70
+Mlab_Pin_Headers
+Straight_2x36
+pin header straight 2x36
+pin header straight 2x36
+0
+72
+72
+Mlab_Pin_Headers
+Straight_2x37
+pin header straight 2x37
+pin header straight 2x37
+0
+74
+74
+Mlab_Pin_Headers
+Straight_2x38
+pin header straight 2x38
+pin header straight 2x38
+0
+76
+76
+Mlab_Pin_Headers
+Straight_2x39
+pin header straight 2x39
+pin header straight 2x39
+0
+78
+78
+Mlab_Pin_Headers
+Straight_2x40
+pin header straight 2x40
+pin header straight 2x40
+0
+80
+80
+Mlab_Pin_Headers
+Zkrat
+
+
+0
+2
+2
