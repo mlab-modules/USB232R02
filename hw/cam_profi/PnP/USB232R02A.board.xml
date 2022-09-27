@@ -1,5 +1,5 @@
 <openpnp-board version="1.1" name="USB232R02A.board.xml">
-   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <dimensions units="Millimeters" x="40.132" y="29.972" z="0.0" rotation="0.0"/>
    <fiducials/>
    <placements>
       <placement version="1.4" id="C1" side="Bottom" part-id="SMD-0805-10nF" type="Placement" enabled="false">
