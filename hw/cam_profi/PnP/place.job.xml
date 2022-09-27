@@ -2,7 +2,7 @@
    <panels/>
    <board-locations>
       <board-location side="Bottom" board-file="USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
-         <location units="Millimeters" x="191.1505202505915" y="234.65062772017458" z="15.353" rotation="89.01683791931057"/>
+         <location units="Millimeters" x="191.11548538118427" y="234.57398894334625" z="15.353" rotation="89.09117805943815"/>
          <placed class="java.util.HashMap">
             <entry>
                <string>R3</string>
@@ -10,7 +10,7 @@
             </entry>
             <entry>
                <string>R4</string>
-               <boolean>false</boolean>
+               <boolean>true</boolean>
             </entry>
          </placed>
       </board-location>
