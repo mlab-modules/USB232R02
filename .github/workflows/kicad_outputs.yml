@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/erc.kibot.yaml
           schema: ${{ env.schema }}
