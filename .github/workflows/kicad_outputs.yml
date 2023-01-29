@@ -35,6 +35,7 @@ jobs:
           board: ${{ env.board }}
           dir: ${{ env.dir }}
           
+          
   DRC:
     runs-on: ubuntu-latest
     continue-on-error: true
@@ -45,13 +46,14 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/drc.kibot.yaml
           schema: ${{ env.schema }}
           board: ${{ env.board }}
           dir: ${{ env.dir }}
-
+          
+          
   xml:
     runs-on: ubuntu-latest
     continue-on-error: true
@@ -62,12 +64,13 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
 
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/xml.kibot.yaml
           schema: ${{ env.schema }}
           board: ${{ env.board }}
           dir: ${{ env.dir }}
+          
       - uses: actions/upload-artifact@v3
         if: ${{ success() }}
         with:
@@ -86,7 +89,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/schematics.kibot.yaml
           schema: ${{ env.schema }}
@@ -110,7 +113,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/placement.kibot.yaml
           schema: ${{ env.schema }}
@@ -135,7 +138,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/pnp.kibot.yaml
           schema: ${{ env.schema }}
@@ -159,7 +162,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/report.kibot.yaml
           schema: ${{ env.schema }}
@@ -183,7 +186,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master         
+      - uses: INTI-CMNB/KiBot@v2_dk6        
         with:
           config: ${{ env.kibot }}/gerbers.kibot.yaml
           schema: ${{ env.schema }}
@@ -208,7 +211,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/cad.kibot.yaml
           schema: ${{ env.schema }}
@@ -232,7 +235,7 @@ jobs:
           token: ${{ secrets.pat }}
           ref: ${{ github.head_ref }}
           
-      - uses: MLAB-project/KiBot@master
+      - uses: INTI-CMNB/KiBot@v2_dk6
         with:
           config: ${{ env.kibot }}/render.kibot.yaml
           schema: ${{ env.schema }}
@@ -256,7 +259,6 @@ jobs:
         ref: ${{ github.head_ref }}
         token: ${{ secrets.pat }}
 
-    
     - run: |
         git pull --force --rebase || true
         git submodule update --remote || true
