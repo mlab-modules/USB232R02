@@ -197,7 +197,7 @@ jobs:
           verbose: 3
 
       - run:|
-        for file in ${{ env.dir }}_gerbers/* ; do mv $file ${file//${{env.project}}/${{env.branch}}} ; done
+        for file in ${{ env.dir }}_gerbers/* ; do mv $file ${file//${ env.project }/${ env.branch } } ; done
           
       - uses: actions/upload-artifact@v2
         if: ${{ success() }}
