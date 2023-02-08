@@ -11,8 +11,9 @@ on:
   workflow_dispatch:
   
 env:
-  schema: "hw/sch_pcb/USB232R02A.kicad_sch"
-  board: "hw/sch_pcb/USB232R02A.kicad_pcb"
+  schema: "hw/sch_pcb/${{ github.event.repository.name }}.kicad_sch"
+  board: "hw/sch_pcb/${{ github.event.repository.name }}.kicad_pcb"
+  branch: ${{ github.head_ref || github.ref_name }} 
   dir: "hw/out"
   kibot: "doc/assets/kibot"
 
