@@ -13,7 +13,8 @@ on:
 env:
   schema: "hw/sch_pcb/${{ github.event.repository.name }}.kicad_sch"
   board: "hw/sch_pcb/${{ github.event.repository.name }}.kicad_pcb"
-  branch: ${{ github.head_ref || github.ref_name }} 
+  project: ${{ github.event.repository.name }}
+  branch: ${{ github.head_ref || github.ref_name }}
   dir: "hw/out"
   kibot: "doc/assets/kibot"
 
@@ -194,6 +195,9 @@ jobs:
           board: ${{ env.board }}
           dir: ${{ env.dir }}_gerbers
           verbose: 3
+
+      - run:|
+        for file in ${{ env.dir }}_gerbers/* ; do mv $file ${file//${{env.project}}/${{env.branch}}} ; done
           
       - uses: actions/upload-artifact@v2
         if: ${{ success() }}
