@@ -19,7 +19,6 @@ env:
   kibot: "doc/assets/kibot"
 
 jobs:
-# checks
   ERC:
     runs-on: ubuntu-latest
     continue-on-error: true
@@ -56,7 +55,6 @@ jobs:
           dir: ${{ env.dir }}
           
           
-# documentation
   schematics:
     runs-on: ubuntu-latest
     continue-on-error: true
@@ -80,11 +78,10 @@ jobs:
           name: doc_sch
           path: ${{ env.dir }}_docs/**
           
-          
   placement:
     name: "Placement and XML"
     runs-on: ubuntu-latest
-    continue-on-error: true
+    #continue-on-error: true
     steps:
       - uses: actions/checkout@v3
         with:
@@ -122,7 +119,7 @@ jobs:
 
   report:
     runs-on: ubuntu-latest
-    continue-on-error: true
+    #continue-on-error: true
     steps:
       - uses: actions/checkout@v3
         with:
@@ -176,7 +173,7 @@ jobs:
   graphics:
     name: "CAD and render"
     runs-on: ubuntu-latest
-    continue-on-error: true
+    #continue-on-error: true
     steps:
       - uses: actions/checkout@v3
         with:
@@ -255,7 +252,6 @@ jobs:
         cp -r doc_placement/doc* hw/cam_profi || true
         cp -r doc_report/* doc/gen || true
 
-    
         rm -r doc_img || true
         rm -r doc_cad || true
         rm -r hw_cam_profi || true
@@ -263,7 +259,7 @@ jobs:
         rm -r doc_placement || true
         rm -r doc_xml || true
         rm -r doc_report || true
-
+        
         
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
