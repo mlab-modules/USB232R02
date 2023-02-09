@@ -266,6 +266,6 @@ jobs:
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update actions products
-        add_options: '-A'
-        commit_options: '-a -f'
+        add_options: '-A -f'
+        commit_options: '-a'
 
