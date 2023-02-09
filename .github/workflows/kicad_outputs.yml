@@ -232,7 +232,7 @@ jobs:
     - name: Remove old manufarturing data
       run: | 
         rm -r hw/cam_profi || true
-        rw -r doc/gen || true
+        rm -r doc/gen || true
     
     - name: Extract to right position
       run: |
@@ -267,5 +267,5 @@ jobs:
       with:
         commit_message: Update actions products
         add_options: '-A'
-        commit_options: '-a'
+        commit_options: '-a -f'
 
