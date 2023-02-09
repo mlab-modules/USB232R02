@@ -23,11 +23,11 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 
 
 Project info:
-Schematic:,USB232R02A
+Schematic:,USB232R02
 Variant:,default
 Revision:,
 Date:,2021-03-25
-KiCad Version:,6.0.4-6f826c9f35~116~ubuntu20.04.1
+KiCad Version:,6.0.10+dfsg-1~bpo11+1
 Statistics:
 Component Groups:,18
 Component Count:,33

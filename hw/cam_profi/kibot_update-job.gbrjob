@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "6.0.4-6f826c9f35~116~ubuntu20.04.1"
+      "Version": "6.0.10+dfsg-1~bpo11+1"
     },
-    "CreationDate": "2022-09-23T21:57:32+00:00"
+    "CreationDate": "2023-02-09T01:10:37+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "USB232R02A",
-      "GUID": "55534232-3332-4523-9032-412e6b696361",
+      "Name": "USB232R02",
+      "GUID": "55534232-3332-4523-9032-2e6b69636164",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "USB232R02A-Edge_Cuts.gbr",
+      "Path": "USB232R02-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-F_Cu.gbr",
+      "Path": "USB232R02-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-B_Cu.gbr",
+      "Path": "USB232R02-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-F_Mask.gbr",
+      "Path": "USB232R02-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "USB232R02A-B_Mask.gbr",
+      "Path": "USB232R02-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "USB232R02A-F_Silkscreen.gbr",
+      "Path": "USB232R02-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-B_Silkscreen.gbr",
+      "Path": "USB232R02-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-F_Paste.gbr",
+      "Path": "USB232R02-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "USB232R02A-B_Paste.gbr",
+      "Path": "USB232R02-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     }
