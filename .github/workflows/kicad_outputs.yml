@@ -1,5 +1,9 @@
 name: Kicad - production files generator
 
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
     paths:
@@ -212,7 +216,7 @@ jobs:
   UPDATE_REPO:
     runs-on: ubuntu-latest
     name: Update repozitory.
-    needs: [graphics, gerbers, schematics, placement]
+    needs: [graphics, gerbers, schematics, placement, report]
     steps:
     - uses: actions/checkout@v3
       with:
