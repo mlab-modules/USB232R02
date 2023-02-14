@@ -4,10 +4,14 @@ github_repo: USB232R02
 github_url: https://github.com/mlab-modules/USB232R02
 homepage: false
 images:
+- doc/gen/img/USB232R02-bottom.png
+- doc/gen/img/USB232R02-top.png
 - doc/img/USB232R02A_top.png
 - doc/img/USB232R02A_bot.png
 - doc/gen/USB232R02-schematic.svg
 - doc/gen/img/USB232R02-top.svg
+- hw/cam_profi/docs/USB232R02A-assembly_page_02.svg
+- hw/cam_profi/docs/USB232R02A-assembly_page_01.svg
 - hw/cam/docs/USB232R02A_schematic.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/USB232R02-ibom.html
