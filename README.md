@@ -15,10 +15,7 @@ The module provides the ability to power your devices via 5V from USB and 3.3V f
 | Communication indication | 2x LED UART RX/TX | Purpose of LEDs can be changed |
 | USB Class | FTDI driver | Virtual USB |
 
-
-![USB232R02A Top](doc/img/USB232R02A_top.png)
-
-![USB232R02A Bottom](doc/img/USB232R02A_bot.png) 
+<img src="doc/img/USB232R02_1.jpg" width="48%"/> <img src="doc/img/USB232R02_2.jpg" width="48%"/> 
 
 
 ## How to get this device? 
