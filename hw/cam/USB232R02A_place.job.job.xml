@@ -6,14 +6,15 @@
          <rows>5</rows>
          <x-gap value="40.132" units="Millimeters"/>
          <y-gap value="29.972" units="Millimeters"/>
-         <check-fids>false</check-fids>
+         <part-id>FIDUCIAL-HOME</part-id>
+         <check-fids>true</check-fids>
          <fiducials>
-            <placement version="1.4" id="PanelFid1" side="Top" type="Fiducial" enabled="true">
-               <location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="89.0"/>
+            <placement version="1.4" id="PanelFid1" side="Top" part-id="FIDUCIAL-HOME" type="Fiducial" enabled="true">
+               <location units="Millimeters" x="3.85" y="10.0" z="0.0" rotation="89.11184727717863"/>
                <error-handling>Alert</error-handling>
             </placement>
-            <placement version="1.4" id="PanelFid2" side="Top" type="Fiducial" enabled="true">
-               <location units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="89.0"/>
+            <placement version="1.4" id="PanelFid2" side="Top" part-id="FIDUCIAL-HOME" type="Fiducial" enabled="true">
+               <location units="Millimeters" x="96.41" y="134.85" z="0.0" rotation="89.11184727717863"/>
                <error-handling>Alert</error-handling>
             </placement>
          </fiducials>
@@ -33,7 +34,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="311.6633262314346" y="273.93465908581857" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -46,7 +47,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="281.0728582836051" y="234.27206362444187" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -59,7 +60,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="281.69492709834765" y="274.3992421246769" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -72,7 +73,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="251.10445915051824" y="234.73664666330023" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -85,7 +86,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="251.72652796526077" y="274.86382516353524" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -98,7 +99,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="221.13606001743133" y="235.20122970215857" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -111,7 +112,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="221.75812883217387" y="275.32840820239363" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -124,7 +125,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="191.16766088434437" y="235.6658127410169" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
@@ -137,7 +138,7 @@
             </entry>
          </placed>
       </board-location>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="false">
+      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="191.7897296990869" y="275.79299124125197" z="16.142" rotation="89.11184727717863"/>
          <placed class="java.util.HashMap">
             <entry>
