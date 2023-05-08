@@ -1,6 +1,8 @@
 # USB232R02A
 The module USB232R02A is a versatile and high-quality converter from USB to serial UART with 3.3V CMOS drive output and TTL input. It features a 5V-tolerant input and utilizes the reliable FT231XQ chip from FTDI The converter uses [FT231XQ](https://ftdichip.com/products/ft231xq/) chip from FTDI, ensuring maximum compatibility with all major operating systems. With supports for Full Speed USB and Full Handshake UART signals. 
 
+![USB232R02A](doc/img/USB232R02A_wide_small.jpg)
+
 The module provides the ability to power your devices via 5V from USB and 3.3V from the integrated power source simultaneously. The protection of the host device for overcurrent is realized by reversible fuse (750mA). 5V header is powerd from USB bus (trought fuse). The 3.3V power source is supplied from an LDO integrated in the FTDI converter. The 3.3V current limit is 50mA.
 
 ## What makes this module special?
