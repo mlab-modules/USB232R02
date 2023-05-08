@@ -22,8 +22,7 @@ USB23202A is differ from other USB-UART converters with its compatibility with M
 | USB Class | FTDI driver | Virtual COM port |
 | Power source | 5V and 3.3V (50mA) | 3.3V is provided by FT231XQ |
 
-<img src="doc/img/USB232R02_1.jpg" width="48%"/> <img src="doc/img/USB232R02_2.jpg" width="48%"/> 
-
+<img src="doc/img/USB232R02_merge.jpg" width="100%"/>
 
 ## How to get this device? 
 
