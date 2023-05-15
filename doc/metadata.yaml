@@ -1,25 +1,32 @@
-description: USB to serial RS232 converter
+description: Universal USB-UART converter ideal for prototyping high-quality devices.
+  USB Full Speed/Full Handshake support.
 github_branch: USB232R02A
 github_repo: USB232R02
 github_url: https://github.com/mlab-modules/USB232R02
 homepage: false
 images:
-- doc/img/USB232R02_merge.jpg
 - doc/img/USB232R02_1.jpg
 - doc/img/USB232R02_2.jpg
+- doc/img/USB232R02_merge.jpg
 - doc/img/USB232R02A_wide_small.jpg
 - doc/img/USB232R02A3.jpg
 - doc/img/USB232R02A_top.png
 - doc/img/USB232R02A_bot.png
 - doc/gen/img/USB232R02-top.png
 - doc/gen/img/USB232R02-bottom.png
-- doc/gen/USB232R02-schematic.svg
-- doc/gen/img/USB232R02-top.svg
 - hw/cam_profi/docs/USB232R02A-assembly_page_02.svg
 - hw/cam_profi/docs/USB232R02A-assembly_page_01.svg
 - hw/cam/docs/USB232R02A_schematic.svg
+- doc/gen/USB232R02-schematic.svg
+- doc/gen/img/USB232R02-top.svg
 mark: 50
 mod_ibom: hw/cam_profi/ibom/USB232R02-ibom.html
 mod_scheme: doc/gen/USB232R02-schematic.pdf
-tags: []
+tags:
+- uart
+- ftdi
+- mlab
+- serial-communication
+- usb
+- ft231xq
 title: USB232R02
