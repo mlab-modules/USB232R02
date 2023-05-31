@@ -19,7 +19,6 @@ images:
 - doc/gen/img/USB232R02-bottom.png
 - hw/cam_profi/docs/USB232R02A-assembly_page_02.svg
 - hw/cam_profi/docs/USB232R02A-assembly_page_01.svg
-- hw/cam/docs/USB232R02A_schematic.svg
 - doc/gen/USB232R02-schematic.svg
 - doc/gen/img/USB232R02-top.svg
 - doc/gen/img/USB232R02-bottom.svg
