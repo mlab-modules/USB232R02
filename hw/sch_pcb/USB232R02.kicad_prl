@@ -68,10 +68,23 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "USB232R02A.kicad_prl",
+    "filename": "USB232R02.kicad_prl",
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "USB232R02.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 616,
+          "pos_y": 27,
+          "size_x": 931,
+          "size_y": 789
+        }
+      }
+    ]
   }
 }
