@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USB232R02.kicad_sch</source>
-    <date>Wed Jul  5 01:50:57 2023</date>
-    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
+    <date>Wed Jul  5 12:08:52 2023</date>
+    <tool>Eeschema 6.0.11+dfsg-1~bpo11+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>USB232R02A</title>
@@ -34,8 +34,6 @@
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>76664881-b13b-485d-8146-b2cd3342e429</tstamps>
     </comp>
@@ -49,8 +47,6 @@
       <property name="UST_ID" value="5c70984812875079b91f8bbd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>cfc8b04f-76e5-46d5-a275-51c940d295cb</tstamps>
     </comp>
@@ -64,8 +60,6 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dd1905ac-acf8-4a7f-9c95-45acf0dc6542</tstamps>
     </comp>
@@ -79,8 +73,6 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6017fbc5-5885-495f-b128-af36db35d2b1</tstamps>
     </comp>
@@ -94,8 +86,6 @@
       <property name="UST_ID" value="5c70984712875079b91f8b4c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Unpolarized capacitor"/>
-      <property name="ki_keywords" value="cap capacitor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>46fe3a80-5edf-4efd-bcbe-ca6f7582107e</tstamps>
     </comp>
@@ -109,8 +99,6 @@
       <property name="UST_ID" value="5c70984512875079b91f88ac"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Diode"/>
-      <property name="ki_keywords" value="diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1f039b55-3c34-40d6-9528-c28c44e4c0a2</tstamps>
     </comp>
@@ -124,8 +112,6 @@
       <property name="UST_ID" value="5c70984412875079b91f8896"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
-      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>73f8190d-7547-4ed2-8230-76c4dc98b669</tstamps>
     </comp>
@@ -139,8 +125,6 @@
       <property name="UST_ID" value="5c70984412875079b91f8895"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Light emitting diode"/>
-      <property name="ki_keywords" value="LED diode"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>0f570900-562d-4c72-a751-ebfa8c6960f6</tstamps>
     </comp>
@@ -154,8 +138,6 @@
       <property name="UST_ID" value="5c70984512875079b91f88d2"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Resettable fuse, polymeric positive temperature coefficient"/>
-      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>62733b7b-fdd3-4350-9b51-f7de3e5c9ae7</tstamps>
     </comp>
@@ -169,8 +151,6 @@
       <property name="UST_ID" value="5c70984412875079b91f87fd"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Ferrite bead, small symbol"/>
-      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7a4dbebd-d0a7-4863-9e1c-f463bc49abf0</tstamps>
     </comp>
@@ -180,8 +160,6 @@
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
-      <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9ccdf6af-8340-4776-9e1b-cf90430c2f74</tstamps>
     </comp>
@@ -191,8 +169,6 @@
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
-      <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>d5b4ee16-e759-497e-8377-97158519928e</tstamps>
     </comp>
@@ -202,8 +178,6 @@
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
-      <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>760863e4-da73-4058-a60b-a7063f12c80c</tstamps>
     </comp>
@@ -213,8 +187,6 @@
       <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Mounting Hole with connection"/>
-      <property name="ki_keywords" value="mounting hole"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6c86aaaa-9174-4bc6-95df-e076880a11e1</tstamps>
     </comp>
@@ -229,8 +201,6 @@
       <property name="UST_ID" value="5c70984412875079b91f87a8"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="USB Type B connector"/>
-      <property name="ki_keywords" value="connector USB"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>53367208-cd3a-4954-8647-0de7f7c0c08e</tstamps>
     </comp>
@@ -240,8 +210,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>18489fef-aad5-4128-b2ee-aca5b2c7e21e</tstamps>
     </comp>
@@ -251,8 +219,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x03_PARALLEL" description="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x03 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x03, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9304e664-8a86-4627-936a-7b92275c5c3b</tstamps>
     </comp>
@@ -262,8 +228,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>15a4cd69-a0bd-4e2b-88a7-e153f9f19836</tstamps>
     </comp>
@@ -273,8 +237,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>efbe8fb8-9545-49ba-bb37-61f2d8d813f2</tstamps>
     </comp>
@@ -284,8 +246,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>213c7d48-cc00-4695-a2fe-64145cce24ee</tstamps>
     </comp>
@@ -295,8 +255,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9abaf92a-7dfd-4f42-bc45-de1b0a9146df</tstamps>
     </comp>
@@ -306,8 +264,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>bbcf9f4e-dab9-441e-badc-e72aac270821</tstamps>
     </comp>
@@ -317,8 +273,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e3fb9e1f-561d-4bab-af2d-ceee04de1b3d</tstamps>
     </comp>
@@ -328,8 +282,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>dba42c53-c210-47c2-9767-0ff3a8df3960</tstamps>
     </comp>
@@ -339,8 +291,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>54aae793-fdcd-4e56-a9eb-ce6c8b2739ae</tstamps>
     </comp>
@@ -350,8 +300,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>3d52675a-b81d-49e5-96cc-9462f977192f</tstamps>
     </comp>
@@ -361,8 +309,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="1x01 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c8fd8da6-e5e8-4c54-818c-06444e23b76d</tstamps>
     </comp>
@@ -372,8 +318,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="1x01 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>61652d37-c987-4076-b01d-6a478efaeb57</tstamps>
     </comp>
@@ -383,8 +327,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="1x01 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e47bd181-3955-4b09-a5ff-6117b7ef0613</tstamps>
     </comp>
@@ -394,8 +336,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="1x01 2.54 mm pitch header"/>
-      <property name="ki_keywords" value="1x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>6ea95316-207f-413b-a780-08495d1813b1</tstamps>
     </comp>
@@ -405,8 +345,6 @@
       <libsource lib="MLAB_HEADER" part="HEADER_2x01_PARALLEL" description="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="2x01 2.54 mm pitch header, 2 pins next to each other are connected"/>
-      <property name="ki_keywords" value="2x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>121381c1-05c1-47dd-926b-13c4324ab477</tstamps>
     </comp>
@@ -416,8 +354,6 @@
       <libsource lib="Jumper" part="SolderJumper_2_Bridged" description="Solder Jumper, 2-pole, closed/bridged"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Solder Jumper, 2-pole, closed/bridged"/>
-      <property name="ki_keywords" value="solder jumper SPST"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>34194031-8ee2-4168-a925-3eae0f2dd195</tstamps>
     </comp>
@@ -431,8 +367,6 @@
       <property name="UST_ID" value="5c70984612875079b91f8995"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>e6027bb9-3585-4cd7-8f72-462f5ea6e99b</tstamps>
     </comp>
@@ -446,8 +380,6 @@
       <property name="UST_ID" value="5c70984612875079b91f899f"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>b000982e-1021-4d2c-b39d-c20a330f2cb5</tstamps>
     </comp>
@@ -461,8 +393,6 @@
       <property name="UST_ID" value="5c70984512875079b91f8983"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>1d29942c-6664-43d9-a5ea-371615c39445</tstamps>
     </comp>
@@ -476,8 +406,6 @@
       <property name="UST_ID" value="5c70984512875079b91f8983"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Resistor"/>
-      <property name="ki_keywords" value="R res resistor"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>fa8f516d-a7ef-49a5-be00-bd70fa99119b</tstamps>
     </comp>
@@ -492,8 +420,6 @@
       <property name="UST_ID" value="5e82e0691287502a334a778c"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"/>
-      <property name="ki_keywords" value="usb ethernet video"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>108fbbc4-b94b-4914-aedb-62f6fa857d65</tstamps>
     </comp>
@@ -508,8 +434,6 @@
       <property name="UST_ID" value="605d7fe0128750769e769adb"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
-      <property name="ki_description" value="Full Speed USB to Full Handshake UART, QFN-20"/>
-      <property name="ki_keywords" value="FTDI USB UART interface converter"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>9bf93799-4977-4b2b-8088-04df44b73cd8</tstamps>
     </comp>
@@ -923,15 +847,15 @@
       <node ref="F1" pin="2" pintype="passive"/>
       <node ref="FB1" pin="1" pintype="passive"/>
     </net>
-    <net code="23" name="Net-(D2-K)">
+    <net code="23" name="Net-(D2-Pad1)">
       <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R3" pin="1" pintype="passive"/>
     </net>
-    <net code="24" name="Net-(D3-K)">
+    <net code="24" name="Net-(D3-Pad1)">
       <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="R4" pin="1" pintype="passive"/>
     </net>
-    <net code="25" name="Net-(U2-~{RESET})">
+    <net code="25" name="Net-(R1-Pad2)">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U2" pin="11" pinfunction="~{RESET}" pintype="input"/>
