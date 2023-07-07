@@ -20,8 +20,8 @@ images:
 - doc/gen/USB232R02-schematic.svg
 - doc/gen/img/USB232R02-top.svg
 - doc/gen/img/USB232R02-bottom.svg
-- hw/cam_profi/docs/USB232R02A-assembly_page_01.svg
-- hw/cam_profi/docs/USB232R02A-assembly_page_02.svg
+- hw/cam_profi/assembly/USB232R02-assembly_page_01.svg
+- hw/cam_profi/assembly/USB232R02-assembly_page_02.svg
 issues: 1
 mark: 90
 mod_ibom: hw/cam_profi/ibom/USB232R02-ibom.html
