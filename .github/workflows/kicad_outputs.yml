@@ -114,10 +114,10 @@ jobs:
 
       - name: "Collect files"
         run: |
-           mkdir doc_xml;
-           cp hw/sch_pcb/*.xml doc_xml/;
-           cp hw/out_docs/*.csv doc_xml/; 
-
+          mkdir doc_xml;
+          mv hw/sch_pcb/*.xml doc_xml/;
+          mv hw/out_docs/*.csv doc_xml/;
+          
       - uses: actions/upload-artifact@v3
         if: ${{ success() }}
         with:
@@ -288,21 +288,21 @@ jobs:
         mkdir hw || true
         mkdir hw/cam_profi || true
         mkdir hw/cam_profi/gbr || true
-        mkdir hw/cam_profi/PnP || true
+        mkdir hw/cam_profi/assembly || true
         mkdir hw/cam_profi/ibom || true
                 
         cp -r doc_img/* doc/gen/img || true
         cp -r doc_cad/cad/* doc/gen || true
-        mv -r hw_cam_profi/PnP hw/cam_profi/PnP || true
+        mv -r hw_cam_profi/PnP/* hw/cam_profi/assembly || true
         cp -r hw_cam_profi/* hw/cam_profi/gbr || true
         cp -r doc_sch/docs/* doc/gen || true
         cp -r doc_xml/* hw/cam_profi || true
         cp -r doc_sch/img/pcb/* doc/gen/img || true
-        cp -r doc_placement/doc* hw/cam_profi || true
+        cp -r doc_placement/docs/* hw/cam_profi/assembly || true
         cp -r doc_report/* doc/gen || true
         cp -r doc_ibom/docs/* hw/cam_profi/ibom || true
 
-        mv hw/cam_profi/gbr/PnP/ hw/cam_profi/PnP || true
+        # mv hw/cam_profi/gbr/PnP/ hw/cam_profi/PnP || true
 
         rm -r doc_img || true
         rm -r doc_cad || true
