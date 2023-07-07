@@ -115,8 +115,8 @@ jobs:
       - name: "Collect files"
         run: |
            mkdir doc_xml;
-           mv hw/sch_pcb/*.xml doc_xml/;
-           mv hw/out_docs/*.csv doc_xml/; 
+           cp hw/sch_pcb/*.xml doc_xml/;
+           cp hw/out_docs/*.csv doc_xml/; 
 
       - uses: actions/upload-artifact@v3
         if: ${{ success() }}
