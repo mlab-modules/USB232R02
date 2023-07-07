@@ -303,7 +303,7 @@ jobs:
         cp -r doc_report/* doc/gen || true
         cp -r doc_ibom/docs/* hw/cam_profi/ibom || true
 
-        # mv hw/cam_profi/gbr/PnP/ hw/cam_profi/PnP || true
+        mv hw/cam_profi/gbr/PnP/ hw/cam_profi/assembly || true
 
         rm -r doc_img || true
         rm -r doc_cad || true
