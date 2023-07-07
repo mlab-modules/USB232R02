@@ -109,7 +109,6 @@ jobs:
           
       - name: "Rename output"
         run: |
-          tree;
           for file in $(find ${{env.dir}} -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
           for file in $(find ${{env.dir}}_docs -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
           
@@ -119,7 +118,7 @@ jobs:
           name: doc_xml
           path: |
             hw/sch_pcb/*.xml
-            hw/sch_pcb/*.csv
+            hw/out_docs/*.csv
 
       # Zde se zahazuji debugovaci videa
       - uses: actions/upload-artifact@v3
@@ -298,7 +297,7 @@ jobs:
         cp -r doc_report/* doc/gen || true
         cp -r doc_ibom/docs/* hw/cam_profi/ibom || true
 
-        mv hw/cam_profi/grb/PnP hw/cam_profi/PnP || true
+        mv hw/cam_profi/gbr/PnP/ hw/cam_profi/PnP || true
 
         rm -r doc_img || true
         rm -r doc_cad || true
