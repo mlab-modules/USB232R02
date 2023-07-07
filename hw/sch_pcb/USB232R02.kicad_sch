@@ -3093,7 +3093,7 @@
     (property "UST_ID" "5c70984712875079b91f8b49" (at 77.47 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "C913645" (at 77.47 60.96 0)
+    (property "LCSC" "C472806" (at 77.47 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2d0b3fc0-1064-4acd-b660-bf992157a1ac))
