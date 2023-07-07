@@ -301,7 +301,7 @@ jobs:
         cp -r doc_sch/img/pcb/* doc/gen/img || true
         cp -r doc_placement/* hw/cam_profi/assembly || true
         cp -r doc_report/* doc/gen || true
-        cp -r doc_ibom/docs/* hw/cam_profi/ibom || true
+        cp -r doc_ibom/docs/* hw/cam_profi || true
 
         mv hw/cam_profi/gbr/PnP/ hw/cam_profi/assembly || true
 
