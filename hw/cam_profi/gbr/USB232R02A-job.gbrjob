@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "7.0.5.1-1-g8f565ef7f0-dirty-deb11"
     },
-    "CreationDate": "2023-07-05T14:47:00+00:00"
+    "CreationDate": "2023-07-07T14:49:03+00:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -27,9 +27,9 @@
       "PadToPad": 0.2,
       "PadToTrack": 0.2,
       "TrackToTrack": 0.2,
-      "MinLineWidth": 0.25,
-      "TrackToRegion": 0.254,
-      "RegionToRegion": 0.254
+      "MinLineWidth": 0.2,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
     }
   ],
   "FilesAttributes": [
@@ -82,6 +82,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Top Silk Screen"
     },
     {
@@ -90,7 +91,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
+      "Color": "White",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -113,7 +114,7 @@
     },
     {
       "Type": "SolderMask",
-      "Color": "Green",
+      "Color": "White",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
@@ -123,6 +124,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "Black",
       "Name": "Bottom Silk Screen"
     }
   ]
