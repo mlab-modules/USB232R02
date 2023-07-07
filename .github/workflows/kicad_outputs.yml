@@ -111,14 +111,19 @@ jobs:
         run: |
           for file in $(find ${{env.dir}} -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
           for file in $(find ${{env.dir}}_docs -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
+
+      - name: "Collect files
+        run: |
+          mkdir doc_xml;
+          mv hw/sch_pcb/*.xml doc_xml/;
+          mv hw/out_docs/*.csv doc_xml/;
           
       - uses: actions/upload-artifact@v3
         if: ${{ success() }}
         with:
           name: doc_xml
           path: |
-            hw/sch_pcb/*.xml
-            hw/out_docs/*.csv
+            doc_xml
 
       # Zde se zahazuji debugovaci videa
       - uses: actions/upload-artifact@v3
