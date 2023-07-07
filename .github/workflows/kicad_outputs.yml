@@ -107,16 +107,17 @@ jobs:
           board: ${{ env.board }}
           dir: ${{ env.dir }}_docs
           
-      - name: "Rename output"
-        run: |
-          for file in $(find ${{env.dir}} -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
-          for file in $(find ${{env.dir}}_docs -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
+#       - name: "Rename output"
+#         run: |
+#           for file in $(find ${{env.dir}} -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
+#           for file in $(find ${{env.dir}}_docs -type f); do sudo mv "${file}" "${file//${{env.project}}/${{env.branch}}}" ; done
 
       - name: "Collect files"
         run: |
-          mkdir doc_xml;
-          mv hw/sch_pcb/*.xml doc_xml/;
-          mv hw/out_docs/*.csv doc_xml/;
+          tree
+          mkdir doc_xml || true ;
+          mv hw/sch_pcb/*.xml doc_xml/ || true;
+          mv hw/out_docs/*.csv doc_xml/ || true;
           
       - uses: actions/upload-artifact@v3
         if: ${{ success() }}
