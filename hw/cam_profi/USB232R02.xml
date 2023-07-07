@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/USB232R02.kicad_sch</source>
-    <date>Fri Jul  7 18:49:42 2023</date>
+    <date>Fri Jul  7 20:00:11 2023</date>
     <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -28,12 +28,12 @@
       <value>10nF</value>
       <footprint>Mlab_C:SMD-0805</footprint>
       <fields>
-        <field name="LCSC">C913645</field>
+        <field name="LCSC">C472806</field>
         <field name="UST_ID">5c70984712875079b91f8b49</field>
       </fields>
       <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
       <property name="UST_ID" value="5c70984712875079b91f8b49"/>
-      <property name="LCSC" value="C913645"/>
+      <property name="LCSC" value="C472806"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="USB232R02.kicad_sch"/>
       <property name="ki_description" value="Unpolarized capacitor"/>
