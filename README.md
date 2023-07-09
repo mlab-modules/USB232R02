@@ -26,8 +26,7 @@ USB23202A is differ from other USB-UART converters with its compatibility with M
 
 ## How to get this device? 
 
-This device is sold by [Universal Scientific Technologies s.r.o.](www.ust.cz). If you are interested in our equipment, do not be afraid to [contact us](mailto:sale@ust.cz
-).
+This device is sold by [Universal Scientific Technologies s.r.o.](https://www.ust.cz). If you are interested in our equipment, do not be afraid to [contact us](mailto:sale@ust.cz).
 
 
 ## Schematics
