@@ -6,7 +6,7 @@ github_branches:
 github_repo: USB232R02
 github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
-image: doc/img/USB232R02_1.jpg
+image_title: doc/img/USB232R02_1.jpg
 images:
 - doc/img/USB232R02_merge.jpg
 - doc/img/USB232R02A3.jpg
