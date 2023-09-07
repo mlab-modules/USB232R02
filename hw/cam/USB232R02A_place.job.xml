@@ -1,7 +1,7 @@
 <openpnp-job>
    <panels/>
    <board-locations>
-      <board-location side="Bottom" board-file="../cam_profi/PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
+      <board-location side="Bottom" board-file="../PnP/USB232R02A.board.xml" panel-id="Panel1" check-fiducials="true" enabled="true">
          <location units="Millimeters" x="262.0292564981552" y="220.10785143916468" z="15.5" rotation="-90.0"/>
          <placed class="java.util.HashMap">
             <entry>
