@@ -8,15 +8,15 @@ github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
 image_title: doc/gen/img/USB232R02-top.png
 images:
-- doc/img/USB232R02_merge.jpg
-- doc/img/USB232R02A3.jpg
-- doc/img/USB232R02A_wide_small.jpg
-- doc/img/USB232R02_1.jpg
 - doc/img/USB232R02_2.jpg
-- doc/img/USB232R02A_top.png
-- doc/img/USB232R02A_bot.png
+- doc/img/USB232R02_1.jpg
+- doc/img/USB232R02A3.jpg
+- doc/img/USB232R02_merge.jpg
+- doc/img/USB232R02A_wide_small.jpg
 - doc/gen/img/USB232R02-bottom.png
 - doc/gen/img/USB232R02-top.png
+- doc/img/USB232R02A_top.png
+- doc/img/USB232R02A_bot.png
 - doc/gen/USB232R02-schematic.svg
 - doc/gen/img/USB232R02-top.svg
 - doc/gen/img/USB232R02-bottom.svg
@@ -42,4 +42,4 @@ tags:
 - comm-serial
 tindie_url: https://www.tindie.com/products/30244/
 title: USB232R02
-updated: '2023-07-21T03:39:21.026124+00:00'
+updated: '2023-09-07T14:40:22.537316+00:00'
