@@ -8,25 +8,25 @@ github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
 image_title: doc/gen/img/USB232R02-top.png
 images:
-- doc/img/USB232R02_2.jpg
-- doc/img/USB232R02_1.jpg
-- doc/img/USB232R02A3.jpg
 - doc/img/USB232R02_merge.jpg
 - doc/img/USB232R02A_wide_small.jpg
-- doc/gen/img/USB232R02-bottom.png
-- doc/gen/img/USB232R02-top.png
+- doc/img/USB232R02_1.jpg
+- doc/img/USB232R02A3.jpg
+- doc/img/USB232R02_2.jpg
 - doc/img/USB232R02A_top.png
 - doc/img/USB232R02A_bot.png
+- doc/gen/img/USB232R02-bottom.png
+- doc/gen/img/USB232R02-top.png
 - doc/gen/USB232R02-schematic.svg
 - doc/gen/img/USB232R02-top.svg
 - doc/gen/img/USB232R02-bottom.svg
-- hw/cam_profi/assembly/USB232R02-assembly_page_01.svg
 - hw/cam_profi/assembly/USB232R02-assembly_page_02.svg
+- hw/cam_profi/assembly/USB232R02-assembly_page_01.svg
 issues: 1
-status: 2
 mark: 90
 mod_ibom: hw/cam_profi/USB232R02-ibom.html
 mod_scheme: doc/gen/USB232R02-schematic.pdf
+status: 2
 tags:
 - uart
 - ftdi
@@ -43,4 +43,4 @@ tags:
 - comm-serial
 tindie_url: https://www.tindie.com/products/30244/
 title: USB232R02
-updated: '2023-09-11T01:13:19.128495+00:00'
+updated: '2023-09-15T15:05:02.577331+00:00'
