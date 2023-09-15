@@ -23,6 +23,7 @@ images:
 - hw/cam_profi/assembly/USB232R02-assembly_page_01.svg
 - hw/cam_profi/assembly/USB232R02-assembly_page_02.svg
 issues: 1
+status: 2
 mark: 90
 mod_ibom: hw/cam_profi/USB232R02-ibom.html
 mod_scheme: doc/gen/USB232R02-schematic.pdf
