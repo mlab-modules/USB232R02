@@ -26,7 +26,7 @@ issues: 1
 mark: 90
 mod_ibom: hw/cam_profi/USB232R02-ibom.html
 mod_scheme: doc/gen/USB232R02-schematic.pdf
-status: 2
+status: 3
 tags:
 - uart
 - ftdi
