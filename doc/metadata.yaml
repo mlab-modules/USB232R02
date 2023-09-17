@@ -3,6 +3,8 @@ description: Universal USB-UART converter ideal for prototyping high-quality dev
 github_branch: USB232R02A
 github_branches:
 - USB232R02A
+github_description: Universal USB-UART converter ideal for prototyping high-quality
+  devices. USB Full Speed/Full Handshake support.
 github_repo: USB232R02
 github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
@@ -43,4 +45,4 @@ tags:
 - comm-serial
 tindie_url: https://www.tindie.com/products/30244/
 title: USB232R02
-updated: '2023-09-16T16:25:52.028140+00:00'
+updated: '2023-09-17T11:38:11.759085+00:00'
