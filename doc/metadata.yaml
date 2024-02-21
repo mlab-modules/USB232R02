@@ -10,20 +10,20 @@ github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
 image_title: doc/gen/img/USB232R02-top.png
 images:
-- doc/img/USB232R02_2.jpg
+- doc/img/USB232R02A_wide_small.jpg
 - doc/img/USB232R02_1.jpg
 - doc/img/USB232R02_merge.jpg
-- doc/img/USB232R02A_wide_small.jpg
 - doc/img/USB232R02A3.jpg
-- doc/img/USB232R02A_top.png
+- doc/img/USB232R02_2.jpg
 - doc/img/USB232R02A_bot.png
-- doc/gen/img/USB232R02-top.png
+- doc/img/USB232R02A_top.png
 - doc/gen/img/USB232R02-bottom.png
+- doc/gen/img/USB232R02-top.png
+- doc/gen/USB232R02-schematic.svg
+- doc/gen/img/USB232R02-top.svg
+- doc/gen/img/USB232R02-bottom.svg
 - hw/cam_profi/assembly/USB232R02-assembly_page_01.svg
 - hw/cam_profi/assembly/USB232R02-assembly_page_02.svg
-- doc/gen/USB232R02-schematic.svg
-- doc/gen/img/USB232R02-bottom.svg
-- doc/gen/img/USB232R02-top.svg
 issues: 1
 mark: 90
 mod_ibom: hw/cam_profi/USB232R02-ibom.html
@@ -45,4 +45,4 @@ tags:
 - comm-serial
 tindie_url: https://www.tindie.com/products/mlab-project/mlab-usb232r02-usb-to-uart-converter/
 title: USB232R02
-updated: '2024-01-18T16:45:25.535899+00:00'
+updated: '2024-02-21T12:40:25.002203+00:00'
