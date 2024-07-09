@@ -8,7 +8,7 @@ github_description: Universal USB-UART converter ideal for prototyping high-qual
 github_repo: USB232R02
 github_url: https://github.com/mlab-modules/USB232R02
 homepage: true
-image_title: doc/gen/img/USB232R02-top.png
+image_title: doc/img/USB232R02A_top.png
 images:
 - doc/img/USB232R02A_wide_small.jpg
 - doc/img/USB232R02_1.jpg
